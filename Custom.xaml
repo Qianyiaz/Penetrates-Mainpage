@@ -10,7 +10,7 @@
 
                     Text="                  Frp PCL2 自定义主页" />
 
-        <TextBlock Margin="0,25,10,25" Foreground="{DynamicResource ColorBrush2}"
+        <TextBlock Margin="0,40,10,25" Foreground="{DynamicResource ColorBrush2}"
                     Text="            {hint}" />
 </local:MyCard>
 
