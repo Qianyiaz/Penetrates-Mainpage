@@ -10,7 +10,7 @@
 
         <StackPanel Orientation="Horizontal" Margin="10,8,0,15" Height="50">
 			<!-- 红石灯（亮） -->
-			<Image Width="50" Margin="160,0,0,0" Source="pack://application:,,,/images/Blocks/RedstoneLampOn.png"/>
+			<Image Width="50" Margin="170,0,0,0" Source="pack://application:,,,/images/Blocks/RedstoneLampOn.png"/>
 </StackPanel>
 
 <!--内网穿透-->
