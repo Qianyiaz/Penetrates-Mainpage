@@ -6,7 +6,7 @@
 
 <local:MyCard Title="开始页" Margin="0,0,0,0" CanSwap="false" IsSwaped="True">
     <StackPanel Margin="25,40,23,0"/>
-        <TextBlock Margin="75,10,100,0"
+        <TextBlock Margin="75,10,85,0"
 
                     Text="                  Frp PCL2 自定义主页" />
 
