@@ -4,14 +4,15 @@
 
                     Text="                  Frp PCL2 自定义主页" />
 
-        <TextBlock Margin="0,40,10,25" Foreground="{DynamicResource ColorBrush2}"
-                    Text="            {hint}" />
         <StackPanel Orientation="Horizontal" Margin="10,8,0,15" Height="50">
 			<!-- 红石灯（亮） -->
 			<Image Width="100" Margin="0,140,0,0" Source="pack://application:,,,/images/Blocks/RedstoneLampOn.png"/>
-        </StackPanel>
-</local:MyCard>
 
+
+        <TextBlock Margin="0,40,10,25" Foreground="{DynamicResource ColorBrush2}"
+                    Text="            {hint}" />
+</local:MyCard>
+</StackPanel>
 <!--内网穿透-->
 <Grid Margin="0,0,0,8">
      <Grid.ColumnDefinitions>
