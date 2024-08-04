@@ -1,5 +1,5 @@
 <local:MyCard Title="开始页" Margin="0,0,0,0" CanSwap="false" IsSwaped="True">
-    <StackPanel Margin="25,90,23,0"/>
+    <StackPanel Margin="25,40,23,0"/>
         <TextBlock Margin="75,10,85,0"
 
                     Text="                  Frp PCL2 自定义主页" />
@@ -8,10 +8,10 @@
                     Text="            {hint}" />
 </local:MyCard>
 
-
+        <StackPanel Orientation="Horizontal" Margin="10,8,0,15" Height="50">
 			<!-- 红石灯（亮） -->
-			<Image Width="100" Margin="140,0,0,0" Source="pack://application:,,,/images/Blocks/RedstoneLampOn.png"/>
-
+			<Image Width="50" Margin="140,0,0,0" Source="pack://application:,,,/images/Blocks/RedstoneLampOn.png"/>
+</StackPanel>
 
 <!--内网穿透-->
 <Grid Margin="0,0,0,8">
