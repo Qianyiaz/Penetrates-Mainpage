@@ -28,9 +28,6 @@
 
 <local:MyCard Title="内网穿透" Margin="0,0,0,15" CanSwap="true" IsSwaped="false">
 
-        <local:MyTextButton Margin="0,20,0,10" HorizontalAlignment="Center"
-                    Text="                                 需下载ChmlFrpLauncher" EventType="打开文件" EventData="ChmlFrpLauncher.exe/>
-
         <local:MyButton Margin="0,35,0,25" Width="250" Height="35" Padding="20,0,20,0"
                     Text="启动 ChmlFrpLauncher" EventType="打开文件" EventData="ChmlFrpLauncher.exe"/>
 
