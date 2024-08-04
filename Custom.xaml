@@ -27,7 +27,7 @@
 </Grid>
 
 <local:MyCard Title="内网穿透" Margin="0,0,0,15" CanSwap="true" IsSwaped="false">
-        <TextBlock Margin="0,0,0,0"
+        <TextBlock Margin="0,20,0,0"
                     Text="                                 需下载ChmlFrpLauncher" />
         <local:MyButton Margin="0,35,0,25" Width="250" Height="35" Padding="20,0,20,0"
                     Text="启动 ChmlFrpLauncher" EventType="打开文件" EventData="ChmlFrpLauncher.exe"/>
