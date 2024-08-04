@@ -30,7 +30,7 @@
 
         <local:MyButton Margin="0,35,0,25" Width="250" Height="35" Padding="20,0,20,0"
                     Text="启动 ChmlFrpLauncher" EventType="打开文件" EventData="ChmlFrpLauncher.exe"/>
-        <local:MyButton Margin="0,100,0,25" Width="250" Height="35" Padding="20,0,20,0"
+        <local:MyButton Margin="0,130,0,25" Width="250" Height="35" Padding="20,0,20,0"
                     Text="下载 ChmlFrpLauncher" EventType="打开文件" EventData="ChmlFrpLauncher.exe"/>
 
                <local:MyIconButton Grid.Column="2" LogoScale="1.2"
