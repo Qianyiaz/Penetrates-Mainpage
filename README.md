@@ -3,10 +3,9 @@
 
 - [ ] 预览
 
-![屏幕截图 2024-08-05 202105](https://github.com/user-attachments/assets/7e574c40-a898-4f37-b1b9-eea642665984)
+![输入图片说明](.github/workflows/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-08-05%20202105.png)
 
-![屏幕截图 2024-08-05 203249](https://github.com/user-attachments/assets/0319a67b-25a6-4c3c-a84b-cbee3b83490e)
-
+![输入图片说明](.github/workflows/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-08-05%20203249.png)
 
 - [ ] 功能
 
@@ -20,7 +19,7 @@
 
 - [ ] 链接
       
-![屏幕截图 2024-08-05 204505](https://github.com/user-attachments/assets/4c73d14a-95fd-4be8-810b-648a48833900)
+![输入图片说明](.github/workflows/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-08-05%20204505.png)
 
 Github：```https://raw.githubusercontent.com/Qianyiaz/pcl-frp/main/Custom.xaml```
 
