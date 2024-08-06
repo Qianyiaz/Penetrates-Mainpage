@@ -5,7 +5,7 @@
                     Text="                  Frp PCL2 自定义主页" />
 
         <TextBlock Margin="0,110,10,25" Foreground="{DynamicResource ColorBrush2}"
-                    Text="            {hint}" />
+                    Text="                            {cave}" />
                     			<!-- 红石灯（亮） -->
 			<Image Width="65" Margin="0,0,0,0" Source="pack://application:,,,/images/Blocks/RedstoneLampOn.png"/>
 </local:MyCard>
