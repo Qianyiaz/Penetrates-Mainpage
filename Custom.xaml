@@ -1,11 +1,11 @@
 <local:MyCard Title="开始页" Margin="0,0,0,0" CanSwap="false" IsSwaped="True">
     <StackPanel Margin="25,40,23,0"/>
-        <TextBlock Margin="75,10,100,0"
+        <TextBlock Margin="125,25,100,0"
 
-                    Text="                  Frp PCL2 自定义主页" />
+                    Text="欢迎使用 Penetrates-Mainpage" Foreground="{DynamicResource ColorBrush2}" />
 
-        <TextBlock Margin="0,110,10,25" Foreground="{DynamicResource ColorBrush2}"
-                    Text="                            {cave}" />
+        <TextBlock Margin="115,120,10,15" Foreground="{DynamicResource ColorBrush2}"
+                    Text="{cave}" />
                     			<!-- 红石灯（亮） -->
 			<Image Width="65" Margin="0,0,0,0" Source="pack://application:,,,/images/Blocks/RedstoneLampOn.png"/>
 </local:MyCard>
