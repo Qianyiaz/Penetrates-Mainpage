@@ -4,9 +4,9 @@
 
 ## 预览
 
-![输入图片说明](.github/workflows/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%主页1.png)
+![输入图片说明](.github/workflows/%E4%B8%BB%E9%A1%B51.png)
 
-![输入图片说明](.github/workflows/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%主页2.png)
+![输入图片说明](.github/workflows/%E4%B8%BB%E9%A1%B52.png)
 
 ## 功能
 
@@ -20,7 +20,7 @@
 
 ## 链接
       
-![输入图片说明](.github/workflows/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%设置1.png)
+![输入图片说明](.github/workflows/%E8%AE%BE%E7%BD%AE1.png)
 
 Github：```https://raw.githubusercontent.com/Qianyiaz/pcl-frp/main/Custom.xaml```
 
