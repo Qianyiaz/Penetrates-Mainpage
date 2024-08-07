@@ -12,7 +12,7 @@
 
 人如其名本项目是pcl2启动器的自定义主页，只不过与其他，
 
-不同的是本项目可以与相同作者的ChmlFrpLauncher配合使用。
+不同的是本项目可以与相同作者的<a href="https://github.com/Qianyiaz/ChmlFrpLauncher">ChmlFrpLauncher</a>配合使用。
 
 可以启动 Frp 内网穿透，可以边玩游戏边启动内网穿透，
 
