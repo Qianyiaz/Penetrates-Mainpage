@@ -72,6 +72,9 @@
           <local:MyListItem Margin="-2,0,0,0" Logo="https://jihulab.com/uploads/-/system/group/avatar/45948/QQ%E5%9B%BE%E7%89%8720220622152105.jpg"
                Title="Open Frp" Info="免费 但权限低" EventType="打开网页" EventData="https://console.openfrp.net"
                Type="Clickable" />
+          <local:MyListItem Margin="-2,0,0,0" Logo="https://dashboard.locyanfrp.cn/favicon.ico"
+               Title="LoCyanFrp" Info="实名认证付费" EventType="打开网页" EventData="https://dashboard.locyanfrp.cn/"
+               Type="Clickable" />
      </StackPanel>
 </local:MyCard>
 
