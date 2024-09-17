@@ -118,7 +118,7 @@
                   
                <local:MyButton Grid.Column="1" Margin="0,30,0,0" Height="35" Text="项目地址"
                     ToolTip="查看项目地址"
-                    EventData="https://github.com/Qianyiaz/pcl-frp"
+                    EventData="https://github.com/Qianyiaz/"
                     EventType="打开网页" />
           </Grid>            
      </StackPanel>
