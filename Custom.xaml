@@ -1,10 +1,10 @@
 <local:MyCard Title="开始页" Margin="0,0,0,0" CanSwap="false" IsSwaped="True">
-    <StackPanel Margin="25,40,23,0"/>
-        <TextBlock Margin="125,25,100,0"
+     <StackPanel Margin="25,40,23,0"/>
+          <TextBlock Margin="125,25,100,0"
 
                     Text="欢迎使用 Penetrates-Mainpage" Foreground="{DynamicResource ColorBrush2}" />
 
-        <TextBlock Margin="115,120,10,15" Foreground="{DynamicResource ColorBrush2}"
+          <TextBlock Margin="115,120,10,15" Foreground="{DynamicResource ColorBrush2}"
                     Text="{cave}" />
                     			<!-- 红石灯（亮） -->
 			<Image Width="65" Margin="0,0,0,0" Source="pack://application:,,,/images/Blocks/RedstoneLampOn.png"/>
@@ -24,9 +24,9 @@
 
 <local:MyCard Title="内网穿透" Margin="0,0,0,15" CanSwap="true" IsSwaped="false">
 
-        <local:MyButton Margin="0,0,0,25" Width="250" Height="35" Padding="20,0,20,0"
+          <local:MyButton Margin="0,0,0,25" Width="250" Height="35" Padding="20,0,20,0"
                     Text="启动 ChmlFrpLauncher" ToolTip="需先下载，ChmlFrpLauncher是作者开发的项目" EventType="打开文件" EventData="ChmlFrpLauncher.exe"/>
-        <local:MyButton Margin="0,115,0,25" Width="250" Height="35" Padding="20,0,20,0"
+          <local:MyButton Margin="0,115,0,25" Width="250" Height="35" Padding="20,0,20,0"
                     Text="下载 ChmlFrpLauncher" ToolTip="要将文件放在PCL文件中，github可能访问不了" EventType="打开网页" EventData="https://github.com/Qianyiaz/ChmlFrpLauncher/releases/latest" />
 
                <local:MyIconButton Grid.Column="2" LogoScale="1.2"
@@ -58,7 +58,7 @@
           Margin="5,0,0,10" Height="30" Grid.Column="1" ToolTip="点我打开" Padding="2,0,2,0"
           ColorType="Highlight" />
 </Grid>
-<local:MyCard Margin="0,0,0,12" Title="常用 Frp(如果没有你想要的，github提醒)" CanSwap="True" IsSwaped="True">
+<local:MyCard Margin="0,0,0,12" Title="常用 Frp" CanSwap="True" IsSwaped="True">
      <StackPanel Margin="24,40,24,15">
           <local:MyListItem Margin="-2,0,0,0" Logo="https://chmlfrp.cn/favicon.ico"
                Title="ChmlFrp" Info="免费 好用" EventType="打开网页" EventData="https://panel.chmlfrp.cn/"
@@ -115,7 +115,7 @@
                     EventType="弹出窗口"
                     EventData="关于作者|I'm Qyz,it's my mane abbr,此项目已在github开源\n\n声明：此项目大多数的代码是借鉴MFn233的简单主页\n\n©Qyz 2024/8/1"
                     ToolTip="查看关于作者" />
-                  
+                    
                <local:MyButton Grid.Column="1" Margin="0,30,0,0" Height="35" Text="项目地址"
                     ToolTip="查看项目地址"
                     EventData="https://github.com/Qianyiaz/Penetrates-Mainpage"
