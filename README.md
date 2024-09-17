@@ -1,16 +1,14 @@
-## Penetrates-Mainpage
+# Penetrates-Mainpage
 
-
-
-## 预览
+## 1.预览
 
 ![输入图片说明](.github/workflows/%E4%B8%BB%E9%A1%B51.png)
 
 ![输入图片说明](.github/workflows/%E4%B8%BB%E9%A1%B52.png)
 
-## 功能
+## 2.功能
 
-人如其名本项目是pcl2启动器的自定义主页，只不过与其他，
+人如其名本项目是 pcl2 启动器的自定义主页，只不过与其他，
 
 不同的是本项目可以与相同作者的<a href="https://github.com/Qianyiaz/ChmlFrpLauncher">ChmlFrpLauncher</a>配合使用。
 
@@ -18,8 +16,8 @@
 
 给予使用者最好的体验。
 
-## 链接
-      
+## 3.链接
+
 ![输入图片说明](.github/workflows/%E8%AE%BE%E7%BD%AE1.png)
 
 Github：`https://raw.githubusercontent.com/Qianyiaz/Penetrates-Mainpage/main/Custom.xaml`
